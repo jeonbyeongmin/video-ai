@@ -1,5 +1,8 @@
 # Google Cloud Video Intelligence 데모
 
+<img width="1379" alt="스크린샷 2025-06-13 오후 1 35 32" src="https://github.com/user-attachments/assets/8884c321-1d49-45be-9c02-8ebbbb58cd3a" />
+<img width="1222" alt="스크린샷 2025-06-13 오후 1 40 42" src="https://github.com/user-attachments/assets/5df5cf1f-8c51-42fe-a187-837b3200adfb" />
+
 Google Cloud Video Intelligence API를 활용한 Next.js 웹 애플리케이션입니다. 비디오를 업로드하고 실시간으로 분석 결과를 확인할 수 있습니다.
 
 ## 주요 기능
